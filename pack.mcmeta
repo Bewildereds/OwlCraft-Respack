@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": [
+      {
+        "text": "OwlCraft",
+        "color": "blue"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Version 1.0",
+        "color": "green"
+      }
+    ]
+  }
+}
