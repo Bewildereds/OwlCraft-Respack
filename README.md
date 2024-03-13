@@ -1,4 +1,4 @@
-# Hanabira Reborn Resource Pack
+# OwlCraft Resource Pack
 
 This is the resource pack for OwlCraft.
 `mc.owlcraft.net`
